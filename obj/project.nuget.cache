@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "toSPnVmAFIcDMVmQY6jcwJAydk0vSAymS38zSwdJxbPqLvzuA6yPlcSJMdaDUcChID8Hg1KRYmI7+k7ug4q4bA==",
+  "success": true,
+  "projectFilePath": "/Users/batuhan/Desktop/aspnetcore-lessons/basics/basics.csproj",
+  "expectedPackageFiles": [
+    "/Users/batuhan/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/batuhan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/batuhan/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.15/microsoft.netcore.app.host.osx-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
